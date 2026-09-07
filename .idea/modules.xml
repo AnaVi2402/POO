@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/AssociacaoAgregacaoComposicao/AssociacaoAgregacaoComposicao.iml" filepath="$PROJECT_DIR$/AssociacaoAgregacaoComposicao/AssociacaoAgregacaoComposicao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ClasseAssociacaoNN/ClasseAssociacaoNN.iml" filepath="$PROJECT_DIR$/ClasseAssociacaoNN/ClasseAssociacaoNN.iml" />
       <module fileurl="file://$PROJECT_DIR$/ClasseObjetoVariavelMetodo/ClasseObjetoVariavelMetodo.iml" filepath="$PROJECT_DIR$/ClasseObjetoVariavelMetodo/ClasseObjetoVariavelMetodo.iml" />
       <module fileurl="file://$PROJECT_DIR$/Encapsulamento/Encapsulamento.iml" filepath="$PROJECT_DIR$/Encapsulamento/Encapsulamento.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/POO.iml" filepath="$PROJECT_DIR$/.idea/POO.iml" />
