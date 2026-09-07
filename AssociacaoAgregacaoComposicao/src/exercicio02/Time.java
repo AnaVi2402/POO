@@ -1,3 +1,5 @@
+package exercicio02;
+
 import java.util.ArrayList;
 
 public class Time {

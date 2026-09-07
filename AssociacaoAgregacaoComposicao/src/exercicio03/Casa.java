@@ -1,3 +1,5 @@
+package exercicio03;
+
 import java.util.ArrayList;
 
 public class Casa {
@@ -31,7 +33,7 @@ public class Casa {
     public void adicionarComodo (String nome, double areaM2){
         comodos.add(new Comodo (nome,areaM2));
     }
-    public void exibirComodo () {
+    public void listarComodo() {
         System.out.println("A casa com o endereço: " + this.endereco + " \nPossui: ");
         for (Comodo comodo : this.comodos){
             System.out.println(comodo.toString());

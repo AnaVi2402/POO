@@ -1,3 +1,5 @@
+package exercicio02;
+
 public class TimeApp {
     public static void main(String[] args){
 

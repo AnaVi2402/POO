@@ -1,3 +1,5 @@
+package exercicio01;
+
 public class Professor {
     private String nome;
     private String especialidade;

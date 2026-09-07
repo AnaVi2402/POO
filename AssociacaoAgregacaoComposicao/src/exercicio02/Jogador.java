@@ -1,3 +1,5 @@
+package exercicio02;
+
 public class Jogador {
     private String nome;
     private int numeroCamisa;
@@ -29,7 +31,7 @@ public class Jogador {
 
     @Override
     public String toString() {
-        return "Jogador{" +
+        return "agregacao.Jogador{" +
                 "nome='" + nome + '\'' +
                 ", numeroCamisa=" + numeroCamisa +
                 '}';

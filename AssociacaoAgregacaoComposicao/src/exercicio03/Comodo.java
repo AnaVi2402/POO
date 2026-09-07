@@ -1,3 +1,5 @@
+package exercicio03;
+
 public class Comodo {
     private String nome;
     private double areaM2;
@@ -29,7 +31,7 @@ public class Comodo {
 
     @Override
     public String toString() {
-        return "Comodo{" +
+        return "exercicio03.Comodo{" +
                 "nome='" + nome + '\'' +
                 ", areaM2=" + areaM2 +
                 '}';

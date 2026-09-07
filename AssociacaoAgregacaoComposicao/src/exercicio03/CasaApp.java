@@ -1,3 +1,5 @@
+package exercicio03;
+
 public class CasaApp {
     public static void main(String[] args){
 
@@ -6,6 +8,6 @@ public class CasaApp {
         c1.adicionarComodo("Cozinha", 8);
         c1.adicionarComodo("Quarto", 6);
 
-        c1.exibirComodo();
+        c1.listarComodo();
     }
 }

@@ -1,3 +1,5 @@
+package exercicio01;
+
 public class TurmaProfApp {
     public static void main(String[] args){
 

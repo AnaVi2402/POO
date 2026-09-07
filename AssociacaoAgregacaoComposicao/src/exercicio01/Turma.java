@@ -1,3 +1,5 @@
+package exercicio01;
+
 public class Turma {
     private String nome;
     private Professor professor;

@@ -1,3 +1,5 @@
+package exerciciosEmSala;
+
 public class Livro {
     private String titulo;
     private String autor;
@@ -69,7 +71,7 @@ public class Livro {
 
     @Override
     public String toString() {
-        return "Livro{" +
+        return "exerciciosEmSala.Livro{" +
                 "titulo='" + titulo + '\'' +
                 ", autor='" + autor + '\'' +
                 ", ano=" + ano +

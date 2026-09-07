@@ -1,3 +1,5 @@
+package exerciciosEmSala;
+
 public class ItemPedido {
     private int id;
     private String produto;
@@ -49,7 +51,7 @@ public class ItemPedido {
 
     @Override
     public String toString() {
-        return "ItemPedido{" +
+        return "exerciciosEmSala.ItemPedido{" +
                 "id=" + id +
                 ", produto='" + produto + '\'' +
                 ", qtde=" + qtde +
