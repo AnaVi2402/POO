@@ -1,3 +1,5 @@
+package ExercicioEmSala;
+
 public class MatriculaApp {
     public static void main(String[] args){
 

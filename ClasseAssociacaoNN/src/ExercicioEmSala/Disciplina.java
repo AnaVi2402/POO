@@ -1,3 +1,5 @@
+package ExercicioEmSala;
+
 import java.util.ArrayList;
 
 public class Disciplina {
@@ -40,7 +42,7 @@ public class Disciplina {
 
     @Override
     public String toString() {
-        return "Disciplina{" +
+        return "ExercicioEmSala.Disciplina{" +
                 "nome='" + nome + '\'' +
                 ", sigla='" + sigla + '\'' +
                 '}';

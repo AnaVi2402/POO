@@ -1,3 +1,5 @@
+package ExercicioEmSala;
+
 import java.time.LocalDateTime;
 
 public class Matricula {
@@ -67,7 +69,7 @@ public class Matricula {
 
     @Override
     public String toString() {
-        return "Matricula{" +
+        return "ExercicioEmSala.Matricula{" +
                 "nro=" + nro +
                 ", disciplina=" + disciplina +
                 ", aluno=" + aluno +

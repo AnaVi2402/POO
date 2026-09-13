@@ -1,3 +1,5 @@
+package ExercicioEmSala;
+
 import java.util.ArrayList;
 
 public class Aluno{
@@ -20,7 +22,7 @@ public class Aluno{
     }
     public void listDisciplinas(){
         //percorre o vetor de matriculas
-        System.out.println("Lista de disciplinas do Aluno " + this.nome);
+        System.out.println("Lista de disciplinas do aluno " + this.nome);
         for(Matricula matricula : this.matriculas){ //: percorre o valor matrícula
             System.out.println(matricula.getDisciplina().getNome());
         }
@@ -41,7 +43,7 @@ public class Aluno{
 
     @Override
     public String toString() {
-        return "Aluno{" +
+        return "ExercicioEmSala.Aluno{" +
                 "nome='" + nome + '\'' +
                 ", ra=" + ra +
                 '}';

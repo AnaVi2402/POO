@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/ClasseAssociacaoNN/ClasseAssociacaoNN.iml" filepath="$PROJECT_DIR$/ClasseAssociacaoNN/ClasseAssociacaoNN.iml" />
       <module fileurl="file://$PROJECT_DIR$/ClasseObjetoVariavelMetodo/ClasseObjetoVariavelMetodo.iml" filepath="$PROJECT_DIR$/ClasseObjetoVariavelMetodo/ClasseObjetoVariavelMetodo.iml" />
       <module fileurl="file://$PROJECT_DIR$/Encapsulamento/Encapsulamento.iml" filepath="$PROJECT_DIR$/Encapsulamento/Encapsulamento.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Heranca/Heranca.iml" filepath="$PROJECT_DIR$/Heranca/Heranca.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/POO.iml" filepath="$PROJECT_DIR$/.idea/POO.iml" />
     </modules>
   </component>
