@@ -22,6 +22,7 @@ public class Gerente extends Funcionario{
     public double calcularBonus() {
         return super.calcularBonus() + this.bonusGerencial;
     }
+    //Se não for colocado o super ele entra em loop infinito
 
     @Override
     public String toString() {
