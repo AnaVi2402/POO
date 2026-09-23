@@ -14,7 +14,7 @@ public class Veiculo {
     }
 
     public void exibirDados(){
-        System.out.println("====== VEÍCULO ======\nMarca: " + this.marca + " | Ano: " + this.ano);
+        System.out.print("\nMarca: " + this.marca + " | Ano: " + this.ano);
     }
 
     public String getMarca() {

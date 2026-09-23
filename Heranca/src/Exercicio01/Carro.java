@@ -12,6 +12,13 @@ public class Carro extends Veiculo{
         this.numeroPortas = numeroPortas;
     }
 
+    @Override
+    public void exibirDados() {
+        System.out.print("===== CARRO ===== ");
+        super.exibirDados();
+        System.out.println(" | Total de portas: " + this.numeroPortas + "\n");
+    }
+
     public int getNumeroPortas() {
         return numeroPortas;
     }
